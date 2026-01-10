@@ -7,6 +7,8 @@
 ## What I learned
 - Small, regular actions reduce pressure
 - Consistency is easier when tasks are simple
+- Reviewing small progress helped me stay motivated
+
 
 ## Next week
 - Continue daily notes
