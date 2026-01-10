@@ -1,6 +1,6 @@
 # Day 01
 
-Today I focused on setting up a simple system to maintain GitHub consistency.
+Today I focused on creating a simple system to maintain GitHub consistency.
 
 ## Key points
 - One small contribution per day is enough
