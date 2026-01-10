@@ -10,3 +10,6 @@ Today I continued building consistency by making small, focused updates.
 ## Takeaway
 Consistency builds confidence, and confidence leads to better work.
 Even small tasks help me stay connected to my goals.
+
+## Question
+- How can I make daily work more focused instead of repetitive?
