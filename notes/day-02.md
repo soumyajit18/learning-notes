@@ -13,3 +13,6 @@ Even small tasks help me stay connected to my goals.
 
 ## Question
 - How can I make daily work more focused instead of repetitive?
+
+## Direction
+- I want to start focusing more on applying what I learn in small projects.
