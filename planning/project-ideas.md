@@ -3,7 +3,7 @@
 This file contains rough ideas for future small projects.
 
 ## Idea 1
-A simple application that helps track daily habits or tasks.
+A simple application that helps track daily habits or tasks, with a focus on simplicity and clarity.
 
 ## Idea 2
 A basic web app that stores and displays user notes.
